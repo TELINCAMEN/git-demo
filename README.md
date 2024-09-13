@@ -18,4 +18,7 @@ foreach ($nota in "Do", "Re", "Mi", "Fa", "Sol", "La", "Si", "La", "Sol", "Fa", 
     [Console]::Beep($frecuencia, 500) # Cada nota dura 0.5 segundos
 }
 
+jjjjooo
+yyyyy
+
 
